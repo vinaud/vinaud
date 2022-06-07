@@ -15,15 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🖥  Software Quality Assurance Analyst (QA) <br>
+🎓 Software Engineering Bachelor <br>
+🌱 I’m currently learning tests automation <br>
+
 <div>
 <a href="https://github.com/vinaud">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaud&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
+  ##
+  
  ### Technologies & tools
 
- 
+<div align="center" style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
@@ -38,6 +44,13 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-          
+</div>
+       
+  ##
+  
+ ### Networks
+  <div align="center" style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <div/>
           
   
